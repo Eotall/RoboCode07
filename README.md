@@ -2,7 +2,7 @@
 
 Tjena bästa gruppen!
 
-Jag har ingen aning vad jag håller på med men jag ska försöka strukurera allt så gott som jag kan!
+Jag har ingen aning vad jag håller på med men jag ska försöka strukturera allt så gott som jag kan!
 
 Tanken är då att huvudfilena som finns i master branchen (den första sidan ni stöter på när ni kommer till projektet) ska vara den som är vår grund. Om man håller på att implementera en ny feature så bör vi skapa en ny branch som beskriver vad för feature som håller på att bearbetas. Skulle det hända att fler än en person jobbar på samma feature, vill jag gärna att ni skriver ert namn framför filen.
 
