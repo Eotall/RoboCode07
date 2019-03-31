@@ -12,4 +12,6 @@ https://trello.com/b/4puxIt4Y/robocops
 
 Do it, it's nice :)
 
-Skriv också i messenger gruppen om det är något om versionshanteringen! Mina öppna tider är varje dag från kl: 10-18... Alltså den tiden jag svarar som snabbast, jag beklagar för alla mina fuck ups i förväg. Let's go!
+Skriv också i messenger gruppen om det är något om versionshanteringen! Mina öppna tider är varje dag från kl: 10-18... Alltså den tiden jag svarar som snabbast, jag beklagar för alla mina fuck ups i förväg. 
+
+Let's go!
