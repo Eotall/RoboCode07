@@ -8,7 +8,7 @@ Tanken är då att huvudfilena som finns i master branchen (den första sidan ni
 
 I samband med git, tycker jag också att Trello är skit nice... registerara er här:
 
-https://trello.com/b/4puxIt4Y/robocops
+https://trello.com/invite/b/4puxIt4Y/cd36d67bf74513385f6f1eef48be7315/robocops
 
 Do it, it's nice :)
 
