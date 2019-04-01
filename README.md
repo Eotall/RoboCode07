@@ -21,3 +21,5 @@ Det här testar jag med Eclipse LDSOIAJDOS
 =======
 Let's go! here we go!
 >>>>>>> branch 'master' of https://github.com/LeFilipTran/RoboCode07
+
+Wao, this is chaos
