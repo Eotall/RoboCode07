@@ -4,8 +4,7 @@ import robocode.*;
 
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
 
-public class Droid extends Robot
-{
+public class Droid extends Robot {
 	/**
 	 * run: Droids's default behavior
 	 */
