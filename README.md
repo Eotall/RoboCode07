@@ -8,10 +8,21 @@ Tanken är då att huvudfilena som finns i master branchen (den första sidan ni
 
 I samband med git, tycker jag också att Trello är skit nice... registerara er här:
 
-https://trello.com/b/4puxIt4Y/robocops
+https://trello.com/invite/b/4puxIt4Y/cd36d67bf74513385f6f1eef48be7315/robocops
 
 Do it, it's nice :)
 
 Skriv också i messenger gruppen om det är något om versionshanteringen! Mina öppna tider är varje dag från kl: 10-18... Alltså den tiden jag svarar som snabbast, jag beklagar för alla mina fuck ups i förväg. 
 
+Här är tutorial på hur man använder sig av git genom Eclipse:
+
+https://www.youtube.com/watch?v=Ght0cOKQKjg&feature=youtu.be
+
 Let's go!
+
+Det här testar jag med Eclipse LDSOIAJDOS
+=======
+Let's go! here we go!
+>>>>>>> branch 'master' of https://github.com/LeFilipTran/RoboCode07
+
+Wao, this is chaos
