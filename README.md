@@ -1,5 +1,5 @@
 # RoboCode07
-
+test
 Tjena bästa gruppen!
 
 Jag har ingen aning vad jag håller på med men jag ska försöka strukturera allt så gott som jag kan!
@@ -14,6 +14,10 @@ Do it, it's nice :)
 
 Skriv också i messenger gruppen om det är något om versionshanteringen! Mina öppna tider är varje dag från kl: 10-18... Alltså den tiden jag svarar som snabbast, jag beklagar för alla mina fuck ups i förväg. 
 
+<<<<<<< HEAD
 Let's go!
 
 Det här testar jag med Eclipse LDSOIAJDOS
+=======
+Let's go! here we go!
+>>>>>>> branch 'master' of https://github.com/LeFilipTran/RoboCode07
