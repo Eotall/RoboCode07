@@ -15,7 +15,10 @@ public interface Specification {
 	/* Returnerar en lista med alla lagmedlemmar */
 	ArrayList<Robot> findTeammates(ArrayList<Robot> allBots);
 
-	/* Kontrollerar om laget ska gå in i defensivt läge */
+	/*
+	 * Kontrollerar om laget ska gå in i defensivt läge, exempelvis om energin blir
+	 * för låg
+	 */
 	boolean shouldEnterDefensive();
 
 	/* Returnerar ledaren i det andra laget */
@@ -31,10 +34,11 @@ public interface Specification {
 
 	/* Säger åt laget att gå in i en defensiv position */
 	void enterDefensiveposition();
-	
+
 	/* Säger åt teammates att röra sig till koordinater */
 	void moveTeammates();
-	
-	
+
+	/* Attackerar en motståndare */
+	void attack(Robot opponent);
 
 }
