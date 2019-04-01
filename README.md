@@ -17,7 +17,6 @@ Skriv också i messenger gruppen om det är något om versionshanteringen! Mina 
 Här är tutorial på hur man använder sig av git genom Eclipse:
 https://www.youtube.com/watch?v=Ght0cOKQKjg&feature=youtu.be
 
-<<<<<<< HEAD
 Let's go!
 
 Det här testar jag med Eclipse LDSOIAJDOS
