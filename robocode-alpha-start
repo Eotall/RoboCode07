@@ -4,10 +4,10 @@ import robocode.*;
 
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
 
-public class Leader extends Robot
+public class Droid extends Robot
 {
 	/**
-	 * run: Leaders's default behavior
+	 * run: Droids's default behavior
 	 */
 	public void run() {
 		// Initialization of the robot should be put here
