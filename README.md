@@ -15,6 +15,7 @@ Do it, it's nice :)
 Skriv också i messenger gruppen om det är något om versionshanteringen! Mina öppna tider är varje dag från kl: 10-18... Alltså den tiden jag svarar som snabbast, jag beklagar för alla mina fuck ups i förväg. 
 
 Här är tutorial på hur man använder sig av git genom Eclipse:
+
 https://www.youtube.com/watch?v=Ght0cOKQKjg&feature=youtu.be
 
 Let's go!
